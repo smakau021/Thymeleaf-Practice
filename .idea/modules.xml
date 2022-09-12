@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Thymeleaf-Practice.iml" filepath="$PROJECT_DIR$/.idea/Thymeleaf-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/thymeleaf/thymeleaf.iml" />
     </modules>
   </component>
 </project>

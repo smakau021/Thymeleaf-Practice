@@ -47,7 +47,7 @@ public class TemplateApp
 
     private TemplateSpec createTemplateSpec(){
         //FIXME
-        return new TemplateSpec("src/main/resources/index.html",TemplateMode.HTML);
+        return new TemplateSpec("thymeleaf/src/main/resources/index.html",TemplateMode.HTML);
     }
 
     private Context initVariableData( ToyRobot aRobot ){
